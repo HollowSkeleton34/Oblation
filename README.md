@@ -1,3 +1,3 @@
 # Oblation
 
-README for Oblation.
+README for Oblation
