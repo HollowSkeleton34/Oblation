@@ -2,4 +2,4 @@
 
 README for Oblation
 
-This will hold ALL the knowladge
+Oblation is a 2D JRPG style game. More information coming soon.
